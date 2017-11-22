@@ -1,0 +1,32 @@
+{
+  "name": "react-yelp-app",
+  "version": "1.0.0",
+  "description": "Fullstack React Sample Chapter",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "6.26.0",
+    "babel-loader": "7.1.2",
+    "babel-preset-env": "1.6.1",
+    "babel-preset-react": "6.24.1",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "webpack": "3.8.1",
+    "webpack-dev-server": "2.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --port 8000 --progress --content-base ./public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoopmundathan/react-yelp-app.git"
+  },
+  "keywords": [],
+  "author": "Anoop Mundathan <anoop.mundathan@gmail.com> (http://anoopmundathan.me/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoopmundathan/react-yelp-app/issues"
+  },
+  "homepage": "https://github.com/anoopmundathan/react-yelp-app#readme"
+}
